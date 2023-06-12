@@ -1,4 +1,4 @@
-package emplloye.management.system;
+package Employee.management.system;
 
 import javax.swing.*;
 import java.awt.*;

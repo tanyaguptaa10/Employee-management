@@ -1,5 +1,5 @@
 
-package emplloye.management.system;
+package Employee.management.system;
 import java .sql.*; // connection interface is in sql method so we have to import
 
  public class connectivity {
@@ -17,3 +17,4 @@ import java .sql.*; // connection interface is in sql method so we have to impor
     }
     
 }
+ 

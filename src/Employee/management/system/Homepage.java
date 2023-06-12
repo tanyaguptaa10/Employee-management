@@ -1,4 +1,4 @@
-package emplloye.management.system;
+package Employee.management.system;
 
 import javax.swing.*; // jframe access from swing so we have to import  
 import java.awt.*; // for access image 
